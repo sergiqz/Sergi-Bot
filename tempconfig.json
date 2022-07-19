@@ -1,0 +1,20 @@
+{
+	"spotify": {
+		"clientID": "clientid",
+		"clientSecretID": "clientSecretID"
+	},
+	"youtube": {
+		"apiKey": "apikey"
+	},
+	"discord": {
+		"token": "OTkzNjU1NTE1MTI3MjM0NjAw.GbOe17.2jgw7FKeUYFJIwtv6EmVPwzTGrnKMpBJ_sLlko"
+	},
+	"playlistIDs": {
+		"alias": "playlistid",
+		"alias2": "playlistid"
+	},
+	"musicDirectory": {
+		"downloadPath": "path to where download videos"
+	}
+}
+
